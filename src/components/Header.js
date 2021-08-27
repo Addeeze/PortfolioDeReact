@@ -19,7 +19,7 @@ export default function NavBar(props) {
     >
       <MDBNavbarBrand />
 
-      <strong style={{ fontSize: "30px"}} className="white-text">Nicholas S. Veen</strong>
+      <strong style={{ fontSize: "30px" }} className="white-text">Nicholas S. Veen</strong>
 
       <MDBNavbarNav  right absolute>
 
