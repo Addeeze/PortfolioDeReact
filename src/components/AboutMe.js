@@ -11,7 +11,7 @@ export default function AboutMe() {
           <hr class="solid bg-dark" />
           
           <img
-            style={{ height: "285px" }}
+            style={{ height: "500px" }}
             src={Picture}
             class="float-left pr-4 pb-3 img-fluid"
             alt="Nicholas S. Veen"
@@ -22,9 +22,9 @@ export default function AboutMe() {
             my knowledge of Finance with my new knowledge of web development in order to start
             a career in between my two professional careers.
           </p>
-          <p style={{ fontSize: "27px",  textAlign: "center"}}>
+          <p style={{ fontSize: "27px",  textAlign: "left"}}>
             The languages and tech that I used and am familiar with are: 
-            <ul >
+            <ul style={{ textAlign: "left"}}>
                 <li className= "technology-li">HTML/CSS</li>
                 <li className= "technology-li">SQL and Sequelize</li>
                 <li className= "technology-li">Javascript</li>
