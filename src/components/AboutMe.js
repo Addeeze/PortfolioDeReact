@@ -1,6 +1,6 @@
 import React from "react";
 import { MDBContainer, MDBRow, MDBCol } from "mdbreact";
-import Picture from "../assets/Images/Joel.png"
+import Picture from "../assets/Images/Me.JPG"
 export default function AboutMe() {
     return (
       <MDBContainer className="mt-5">
